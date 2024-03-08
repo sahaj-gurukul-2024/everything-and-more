@@ -1,6 +1,4 @@
 # everything-and-more
-
-
 ## Threads
 - [ ] Lazy Threads
 - [ ] How do you know communications between threads are acknowledged by each other
@@ -19,7 +17,6 @@
 - [ ] How are child processes and child daemons linked to each other
 - [ ] Dynamically linked libraries and statically linked libraries
 - [ ] [[Intel vs M-Series]]
-
   ## Networking
 - [ ] ICMP
 - [ ] Public vs Private IPs
@@ -40,7 +37,6 @@
 - [ ] Bandwidth and latency not related (slow-start algorithm example)
 - [ ] sll, dll, AOT and JIT, .NET in JIT
 - [ ] C being commonality between most HLL
-
 ## Garbage Collector
 - [ ] Working
 - [ ] Types
@@ -54,7 +50,6 @@
 - [ ] graalvm - no garbage collection
 - [ ] *Reference object* - pointer in Java -> moves locations without programmers knowing (because C/CPP has pointers but java doesn't)
 - [ ] Mark, sweep and compaction (GC)
-
 ## Databases
 - [ ] Secret Store
 - [ ] Facebook 2018 pen-testing environment
@@ -73,7 +68,6 @@
 - [ ] Encode and Sanitation of strings to avoid SQL injection
 - [ ] Clickhouse DB and other analytical databases
 - [ ] [Following a database read to the metal](https://medium.com/@hnasr/following-a-database-read-to-the-metal-a187541333c2)
-
 ## JVM + Kotlin
 - [ ] [[Beans]]
 - [ ] Configurations + Annoations in JVM
@@ -89,10 +83,8 @@
 - [ ] Generic types
 - [ ] Reified types
 - [ ] [Building REST-ful APIs using Micronaut](https://itnext.io/building-restful-apis-with-micronaut-98f4eb39211c)
-
 ## Docker
 - [ ] How does docker check health of its containers
-
 ## Clean Code Practices
 - [ ] Replacement for for loops, forEach (Higher Order Functions)
     -  Iterator, Filter
@@ -129,16 +121,13 @@
     - Constructor injection
 - [ ] [No objects ending with 'er'](https://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html)
 - [ ] [Clean Code Blog - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html)
-
 ## Functional Programming
 - [ ] Monadic Functions
 - [ ] Currying - Scala/Haskell
 - [ ] Traits - Scala
-
 ## Practices
 - [ ] MockK > Powermock
 - [ ] Custom exceptions - how to use them in test cases
-
 ## CI-CD
 - [ ] Canary Deployment
 - [ ] Are dependencies included in deployable jar file
@@ -169,11 +158,9 @@
 - [ ] Blue-green deployment
     - Requires monitoring if you're using load balancer
 - [ ] Zero-downtime releases
-
 ## System Design
 - [ ] Dependency Inversion
     - Adaptor class or Anti-corruption layer
-     
 ## Discovery
 - [ ] Macro and Micro factors influencing environment
 - [ ] Code -> Product -> Business -> Market -> Environment
@@ -217,7 +204,6 @@
     - Stakeholders
     - Understanding Personas
     - Dependencies
-     
 # Books to Read
 1. [HeadFirst Design Patterns](https://github.com/ajitpal/BookBank/blob/master/%5BO%60Reilly.%20Head%20First%5D%20-%20Head%20First%20Design%20Patterns%20-%20%5BFreeman%5D.pdf)
 2. HeadFirst OOAD
@@ -226,7 +212,6 @@
 5. Database Internals
 6. Domain Driven Design
 7. Clean Code - Robert Martin
-
 # Sent by Mentors
 - [ ] [Idea Keymaps](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 - [ ] [UUID vs ULID](https://medium.com/@sammaingi5/uuid-vs-ulid-how-ulid-improves-write-speeds-d16b23505458#:~:text=For%20example%2C%20ULIDs%20are%20more,work%20with%20in%20certain%20situations.)
@@ -247,8 +232,6 @@
 - [ ] [Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
 - [ ] [Refactoring](https://kata-log.rocks/tdd)
 - [ ] [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
-
-
 # Extras (Courtesy of Dheeraj)
 - [ ] [Why Stack so fast](https://www.youtube.com/watch?v=N3o5yHYLviQ)
 - [ ] [Exploring CoRoutines](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
