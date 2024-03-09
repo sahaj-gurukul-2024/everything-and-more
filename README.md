@@ -69,8 +69,8 @@
 - [ ] Clickhouse DB and other analytical databases
 - [ ] [Following a database read to the metal](https://medium.com/@hnasr/following-a-database-read-to-the-metal-a187541333c2)
 ## JVM + Kotlin
-- [ ] [[Beans]]
-- [ ] Configurations + Annoations in JVM
+- [ ] Beans
+- [ ] Configurations + Annotations in JVM
 - [ ] Comparators
 - [ ] [Coroutines](https://blog.rockthejvm.com/kotlin-coroutines-101/)
 - [ ] Specific data types for money - BigDecimal
